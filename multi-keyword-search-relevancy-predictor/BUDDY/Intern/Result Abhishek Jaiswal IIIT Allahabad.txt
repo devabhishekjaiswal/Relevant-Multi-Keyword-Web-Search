@@ -1,0 +1,56 @@
+FINAL OUTPUT-----------------------------------------------
+link grabbed :https://www.facebook.com/public/Abhishek-Jaiswal
+text begins ---------------------------------
+-----------------------------------------------------------
+https://www.facebook.com/public/Abhishek-Jaiswal score-> 6
+https://www.facebook.com/public/Abhishek-Jaiswal may be
+
+
+link grabbed :http://profile.iiita.ac.in/mmishra/
+text begins ---------------------------------
+-----------------------------------------------------------
+http://profile.iiita.ac.in/mmishra/ score-> 11
+http://profile.iiita.ac.in/mmishra/ sure
+
+
+link grabbed :https://in.linkedin.com/in/abhishek-jaiswal-b4bb9a80
+text begins ---------------------------------
+link grabbed :https://www.quora.com/profile/Abhishek-Jaiswal-21
+text begins ---------------------------------
+-----------------------------------------------------------
+https://www.quora.com/profile/Abhishek-Jaiswal-21 score-> 11
+https://www.quora.com/profile/Abhishek-Jaiswal-21 sure
+
+
+link grabbed :https://www.codechef.com/users/abhishek_iiita
+text begins ---------------------------------
+link grabbed :https://www.hackerearth.com/users/abhishek.jaiswal.7106670/
+text begins ---------------------------------
+-----------------------------------------------------------
+https://www.hackerearth.com/users/abhishek.jaiswal.7106670/ score-> 6
+https://www.hackerearth.com/users/abhishek.jaiswal.7106670/ may be
+
+
+link grabbed :http://www.spoj.com/users/abhigeek
+text begins ---------------------------------
+-----------------------------------------------------------
+http://www.spoj.com/users/abhigeek score-> 11
+http://www.spoj.com/users/abhigeek sure
+
+
+link grabbed :https://twitter.com/abshk111
+text begins ---------------------------------
+-----------------------------------------------------------
+https://twitter.com/abshk111 score-> 11
+https://twitter.com/abshk111 sure
+
+
+link grabbed :http://websta.me/n/abhi._jaiswal
+text begins ---------------------------------
+link grabbed :https://disqus.com/by/abhigeek/
+text begins ---------------------------------
+-----------------------------------------------------------
+https://disqus.com/by/abhigeek/ score-> 0
+https://disqus.com/by/abhigeek/NO
+
+

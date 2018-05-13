@@ -1,0 +1,51 @@
+FINAL OUTPUT-----------------------------------------------
+link grabbed :https://in.linkedin.com/in/abhishek-jaiswal-b4bb9a80
+text begins ---------------------------------
+link grabbed :https://in.linkedin.com/in/platinumabhi
+text begins ---------------------------------
+-----------------------------------------------------------
+https://in.linkedin.com/in/platinumabhi score-> 11
+https://in.linkedin.com/in/platinumabhi sure
+
+
+link grabbed :https://www.linkedin.com/pub/dir/Abhishek/Jaiswal
+text begins ---------------------------------
+-----------------------------------------------------------
+https://www.linkedin.com/pub/dir/Abhishek/Jaiswal score-> 6
+https://www.linkedin.com/pub/dir/Abhishek/Jaiswal may be
+
+
+link grabbed :https://in.linkedin.com/pub/abhishek-jaiswal/a/1a6/36a
+text begins ---------------------------------
+-----------------------------------------------------------
+https://in.linkedin.com/pub/abhishek-jaiswal/a/1a6/36a score-> 6
+https://in.linkedin.com/pub/abhishek-jaiswal/a/1a6/36a may be
+
+
+link grabbed :https://www.facebook.com/public/Abhishek-Jaiswal
+text begins ---------------------------------
+-----------------------------------------------------------
+https://www.facebook.com/public/Abhishek-Jaiswal score-> 6
+https://www.facebook.com/public/Abhishek-Jaiswal may be
+
+
+link grabbed :http://www.slideshare.net/AbhishekJaiswal59/abhishekresume-51035328
+text begins ---------------------------------
+link grabbed :http://www.embibe.com/100marks/ask/question/got-2406-state-rank-can-i-get-iiit-allahabad-i-belong-to-obc-category
+text begins ---------------------------------
+-----------------------------------------------------------
+http://www.embibe.com/100marks/ask/question/got-2406-state-rank-can-i-get-iiit-allahabad-i-belong-to-obc-category score-> 11
+http://www.embibe.com/100marks/ask/question/got-2406-state-rank-can-i-get-iiit-allahabad-i-belong-to-obc-category sure
+
+
+link grabbed :https://www.quora.com/Why-do-students-from-NSIT-DTU-IIIT-A-and-MNNIT-perform-well-in-SPOJ-CodeChef-and-Codeforces-even-though-NIT-Trichy-Warangal-and-Surathkal-have-much-better-ranked-students
+text begins ---------------------------------
+-----------------------------------------------------------
+https://www.quora.com/Why-do-students-from-NSIT-DTU-IIIT-A-and-MNNIT-perform-well-in-SPOJ-CodeChef-and-Codeforces-even-though-NIT-Trichy-Warangal-and-Surathkal-have-much-better-ranked-students score-> 7
+https://www.quora.com/Why-do-students-from-NSIT-DTU-IIIT-A-and-MNNIT-perform-well-in-SPOJ-CodeChef-and-Codeforces-even-though-NIT-Trichy-Warangal-and-Surathkal-have-much-better-ranked-students may be
+
+
+link grabbed :http://personzz.com/q/abhishek%2Bjaiswal%2Bjaiswal
+text begins ---------------------------------
+link grabbed :http://docs.bosguru.com/users/abhishek.jaiswal.7106670/
+text begins ---------------------------------
